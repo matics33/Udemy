@@ -1,0 +1,11 @@
+body{
+    color: darkblue;/* color de letra*/
+    background-color: cadetblue; /*color de fondo*/
+    h1 {
+        color:darkred
+    } /*cambia el color del titulo especificado*/
+
+    .blanco{
+        color: aliceblue;
+    } /* cambia color de titulo o parrafp mediante id .blanco intruducido en html mediante class="blanco"*/
+}
